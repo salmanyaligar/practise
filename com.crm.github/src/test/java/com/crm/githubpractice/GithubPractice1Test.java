@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class GithubPractice1Test 
 {
 	@Test
-	public void smoke()
+	public void executesmoke()
 	{
 		System.out.println("Execute smoke test case");
 	}

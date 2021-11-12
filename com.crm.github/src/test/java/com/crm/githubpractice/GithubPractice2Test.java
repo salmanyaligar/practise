@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class GithubPractice2Test {
 	@Test
-	public void regression()
+	public void executeregression()
 	{
 		System.out.println("Execute regression test case");
 	}
